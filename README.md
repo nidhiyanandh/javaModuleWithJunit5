@@ -1,4 +1,4 @@
-# javaMouduleWithJunit5
+# javaModuleWithJunit5
 Java Module with Junit 5 Sample Project
 It contains Two projects 
 
